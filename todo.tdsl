@@ -1,3 +1,8 @@
+get timeseries data for mouse movement of players
+collect dataset of invite teams, detect which class each person is playing
+  eventually collect dataset for invite teams, identify which player it is.
+    maybe just sample latent space of something and cosinesimilarity difference to identify player
+
 implement transformer from paper, but for timeseries classification
 
 
